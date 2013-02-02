@@ -1,0 +1,7 @@
+CATKIN_PACKAGE_PREFIX=""
+PROJECT_ABSOLUTE_INCLUDE_DIRS="/home/ysuzuki/moirai-ws/devel/include;/home/ysuzuki/moirai-ws/src/opt_camera/src/opt_nm33_uvc"
+PROJECT_CATKIN_DEPENDS=""
+PKG_CONFIG_LIBRARIES_WITH_PREFIX="-lopt_camera;-lCATKIN-DEPENDS;-lsensor_msgs;-ldriver_base;-limage_proc;-ldynamic_reconfigure;-lcamera_calibration_parsers;-lcompressed_image_transport;-lcv_bridge"
+PROJECT_NAME="opt_camera"
+PROJECT_SPACE_DIR="/home/ysuzuki/moirai-ws/devel"
+PROJECT_VERSION="0.0.1"
